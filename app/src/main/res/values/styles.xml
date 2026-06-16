@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="GameCell">
+
+        <item name="android:layout_width">105dp</item>
+        <item name="android:layout_height">105dp</item>
+
+        <item name="android:background">@android:color/transparent</item>
+
+        <item name="android:textSize">64sp</item>
+
+        <item name="android:textStyle">bold</item>
+
+        <item name="android:textColor">#FFFFFF</item>
+
+        <item name="android:fontFamily">@font/orbitron</item>
+
+    </style>
+
+</resources>
